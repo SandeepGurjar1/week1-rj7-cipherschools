@@ -1,6 +1,6 @@
 // console.log("Hello World");
 // // types of Variables in Java
-// const firstName = "Jagdish Kuri";
+// const firstName = "sandeep";
 // console.log(firstName);
 // let LastNmae = "Kumar";
 // console.log(LastNmae);
@@ -37,7 +37,7 @@
 // console.log( maxOFTwonumbers(1,2,3,4,5,6,7));
 //for objects
 // const obje = {
-//     name: "jagdish",
+//     name: "sandeep",
 //     last: "kuri",
 //     age: 24,
 //     address:{
